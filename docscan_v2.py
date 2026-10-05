@@ -1,5 +1,5 @@
 """
-DocScan v3.0 - Industry-Grade Document Scanner
+DocScan v3.0 -  Document Scanner
 ================================================
 Fixes applied over v2.0:
   1. Detection runs on a downscaled copy; perspective warp is applied to the
